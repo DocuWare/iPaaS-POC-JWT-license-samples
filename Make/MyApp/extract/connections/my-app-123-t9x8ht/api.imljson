@@ -1,0 +1,12 @@
+{
+    "url": "",
+    "method": "",
+    "qs": {},
+    "body": {},
+    "headers": {},
+    "response": {
+        "output": {
+            "checkJWT": "{{checkJWT(parameters.jwt, common.secret, parameters.host)}}"
+        }
+    }
+}

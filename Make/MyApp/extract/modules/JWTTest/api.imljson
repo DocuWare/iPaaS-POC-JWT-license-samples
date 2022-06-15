@@ -1,0 +1,12 @@
+{
+    "url": "",
+    "method": "POST",
+    "qs": {},
+    "body": {},
+    "headers": {},
+    "response": {
+        "output": {
+            "checkJWT": "{{checkJWT(connection.jwt, common.secret, connection.host)}}"
+        }
+    }
+}

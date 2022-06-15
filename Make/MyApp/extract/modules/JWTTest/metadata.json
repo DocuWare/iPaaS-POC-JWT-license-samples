@@ -1,0 +1,8 @@
+{
+    "name": "JWTTest",
+    "label": "JWT test module",
+    "description": "A Test Module for JWT",
+    "connection": "my-app-123-t9x8ht",
+    "webhook": null,
+    "type": "action"
+}

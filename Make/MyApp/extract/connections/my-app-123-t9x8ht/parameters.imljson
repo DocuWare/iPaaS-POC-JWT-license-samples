@@ -1,0 +1,14 @@
+[
+    {
+        "name": "jwt",
+        "type": "text",
+        "label": "JWT",
+        "required": true
+    },
+    {
+        "name": "host",
+        "type": "text",
+        "label": "host",
+        "required": true
+    }
+]
